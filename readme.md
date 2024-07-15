@@ -65,6 +65,11 @@ Run with `-h` or `--help` for additional help with CLI options.
 
 An "xbin_cli" script is also provided, which lets you manually add/remove XBIN headers to/from files.
 
+
+
+This is a comment added by the fixer here, uh,
+I'd recommend using this in combination with KirbyFDGH for complete scope of adding/removing custom objects to the available games cuz this program makes up for the shortcoming that KirbyFDGH has, that being the inability to add/remove new reference strings to the list of existing ones.
+
 ## License
 
 Licensed under the GNU General Public License version 3 or (at your option) any later version. (See the "COPYING" file for more information.)
