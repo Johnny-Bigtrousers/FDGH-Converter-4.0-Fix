@@ -4,6 +4,7 @@ This is a forked copy of the original repository as it has sat untouched for ove
 
 An executable file that converts FDGH files (found in many HAL Laboratory games) to and from XML.
 Copyright (C) 2016-2022 RoadrunnerWMC
+
 Amended by "Johnny Bigtrousers"
 
 ## FDGH Files
