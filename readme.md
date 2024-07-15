@@ -68,7 +68,7 @@ An "xbin_cli" script is also provided, which lets you manually add/remove XBIN h
 
 
 This is a comment added by the fixer here, uh,
-I'd recommend using this in combination with KirbyFDGH for complete scope of adding/removing custom objects to the available games cuz this program makes up for the shortcoming that KirbyFDGH has, that being the inability to add/remove new reference strings to the list of existing ones.
+I'd recommend using this in combination with KirbyFDGH for complete scope of adding/removing custom objects to the available games cuz this program makes up for the main shortcoming that KirbyFDGH has, that being the inability to add/remove new reference strings to the list of existing ones.
 
 ## License
 
