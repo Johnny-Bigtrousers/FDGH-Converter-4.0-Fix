@@ -1,7 +1,10 @@
-# FDGH Converter 4.0
+# FDGH Converter 4.0 Fix
 
-A script that converts FDGH files (found in many HAL Laboratory games) to and from XML.
+This is a forked copy of the original repository as it has sat untouched for over a year with changes made to it by its original uploader that render it unusable. This fork remedies the issues and allows it to be compiled again and includes a release build which the original had at one point but had removed for an unknown reason.
+
+An executable file that converts FDGH files (found in many HAL Laboratory games) to and from XML.
 Copyright (C) 2016-2022 RoadrunnerWMC
+Amended by "Johnny Bigtrousers"
 
 ## FDGH Files
 
